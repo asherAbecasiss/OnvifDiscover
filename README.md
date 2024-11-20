@@ -17,8 +17,8 @@ A Golang-based command-line tool to discover ONVIF devices on the network. It li
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/onvif-discovery-cli.git
-   cd onvif-discovery-cli
+   https://github.com/asherAbecasiss/OnvifDiscover.git
+   cd OnvifDiscover
 
 2. Run the tool.
    ```bash
