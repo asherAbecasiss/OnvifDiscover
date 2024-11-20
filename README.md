@@ -23,8 +23,12 @@ A Golang-based command-line tool to discover ONVIF devices on the network. It li
 2. Run the tool.
    ```bash
    ./onvif-discovery
+
+Follow the prompts
+- Select the desired network interface by entering its corresponding number.
+- The tool will scan for ONVIF devices and display the discovered URLs.
   
-3. Example Output
+Example Output
    ```bash
    Available network interfaces:
     [0] enp4s0 (Flags: up|broadcast|multicast)
