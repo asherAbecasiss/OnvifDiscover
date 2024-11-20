@@ -6,11 +6,10 @@ A Golang-based command-line tool to discover ONVIF devices on the network. It li
 
 - Lists all network interfaces on the system.
 - Allows the user to select a specific interface for scanning.
-- Displays a spinner while scanning for ONVIF devices.
 - Outputs discovered ONVIF device streaming URLs in the format: `http://<IP>:<Port>`.
 
 ## Prerequisites
-
+- **Tested on**: Linux (Debian-based distributions)
 - Go 1.18 or later
 - A network with ONVIF-compatible devices
 
