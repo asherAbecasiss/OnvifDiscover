@@ -19,10 +19,11 @@ A Golang-based command-line tool to discover ONVIF devices on the network. It li
    ```bash
    https://github.com/asherAbecasiss/OnvifDiscover.git
    cd OnvifDiscover
+   go build .
 
 2. Run the tool.
    ```bash
-   ./onvif-discovery
+   ./OnvifDiscover
 
 Follow the prompts
 - Select the desired network interface by entering its corresponding number.
